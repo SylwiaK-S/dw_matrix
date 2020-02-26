@@ -1,2 +1,4 @@
-# Matrix Data Workshop
-Results for every day challenge in Data Workshop.
+# Matrix - Data Workshop
+Results for everyday challenges in DataWorkshop.
+
+First day - done!
